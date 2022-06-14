@@ -1,8 +1,8 @@
 {
   "unique_id": "PUyB7PFF",
-  "name": "perros",
-  "path": "/perros",
-  "filename": "perros.tsx",
+  "name": "Gatos",
+  "path": "/gatos",
+  "filename": "gatos.tsx",
   "type": "page",
   "parent": "1AZ17HkB",
   "collapseStatus": "collapse",
