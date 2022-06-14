@@ -1,6 +1,6 @@
 {
-  "name": "Dashboard",
   "unique_id": "ewqGe2FA",
+  "name": "Dashboard",
   "type": "page",
   "path": "/",
   "filename": "dashboard.tsx",
