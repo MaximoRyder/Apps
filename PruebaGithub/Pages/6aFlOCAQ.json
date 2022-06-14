@@ -1,0 +1,14 @@
+{
+  "name": "Body",
+  "unique_id": "6aFlOCAQ",
+  "parent": "ewqGe2FA",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "type": "element",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.pages"
+    ]
+  }
+}

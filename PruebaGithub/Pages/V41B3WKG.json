@@ -1,0 +1,10 @@
+{
+  "name": "Language",
+  "unique_id": "V41B3WKG",
+  "parent": "hthmEWT8",
+  "path": "dummyEncloser.tpl",
+  "completePath": "elements/Basic/dummyEncloser.tpl",
+  "cascades": true,
+  "type": "element",
+  "value": "dummyEncloser"
+}

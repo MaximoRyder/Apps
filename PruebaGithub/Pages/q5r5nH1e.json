@@ -1,0 +1,13 @@
+{
+  "name": "code",
+  "unique_id": "q5r5nH1e",
+  "parent": "AV3P2hLL",
+  "path": "code.tpl",
+  "completePath": "elements/Programming/code.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "code",
+  "values": {
+    "code": "setlang(langStrings[localStorage.getItem('aptugolang') || 'en'])"
+  }
+}

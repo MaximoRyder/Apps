@@ -1,0 +1,13 @@
+{
+  "name": "themeSelection",
+  "unique_id": "ScgQ55Pd",
+  "parent": "hthmEWT8",
+  "path": "themeSelection.tpl",
+  "completePath": "elements/Experimental/themeSelection.tpl",
+  "cascades": true,
+  "type": "element",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum"
+  }
+}

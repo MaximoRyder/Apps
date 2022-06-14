@@ -1,0 +1,12 @@
+{
+  "name": "Main Area",
+  "unique_id": "uNZwzKNa",
+  "parent": "6aFlOCAQ",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  }
+}

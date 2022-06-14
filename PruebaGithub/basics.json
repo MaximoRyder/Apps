@@ -1,0 +1,37 @@
+{
+  "_id": "A6qdgFa8EtCMqACU",
+  "createdAt": 1655235235411,
+  "modifiedAt": 1655235539755,
+  "lastSaved": 1655235539754,
+  "settings": {
+    "name": "PruebaGithub",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://pruebagithub_.aptugo.com",
+      "folder": "PruebaGithub",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://pruebagithub_.aptugo.com",
+      "folder": "PruebaGithub_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://PruebaGithub.aptugo.com:3456",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Local",
+      "url": "https://pruebagithub.aptugo.com",
+      "folder": "PruebaGithub",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://PruebaGithub.aptugo.com:3456",
+      "dbconnectstring": "mongodb://PruebaGithub:NfFxieZ1kePo22ZF@127.0.0.1:27017/?authSource=admin",
+      "variables": ""
+    }
+  }
+}

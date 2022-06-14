@@ -1,0 +1,14 @@
+{
+  "name": "Language",
+  "unique_id": "4g549VH9",
+  "parent": "V41B3WKG",
+  "path": "useState.tpl",
+  "completePath": "elements/Programming/useState.tpl",
+  "cascades": false,
+  "type": "element",
+  "value": "useState",
+  "values": {
+    "variableName": "lang",
+    "defaultValue": "'en'"
+  }
+}
